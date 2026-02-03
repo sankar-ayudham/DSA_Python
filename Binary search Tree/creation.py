@@ -1,0 +1,7 @@
+class BSTree:
+    def __init__(self,data):
+        self.data = data
+        self.leftNode=None
+        self.rightNode= None
+
+BST=BSTree(None)
